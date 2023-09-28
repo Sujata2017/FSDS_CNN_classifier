@@ -9,4 +9,4 @@ Workflow
 * 6.training 
 * 7.predeiction 
 * 8.test your package 
-* 9.dvc for the reprodcuing the pipeline
+* 9.dvc for reproducing the pipeline
